@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HP Custom Functions v0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-08-07 15:58:13-0400\n"
+"Last-Translator: andrews <toddstar_2000@yahoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: hp-custom-functions.php:214
+#@ hp_custom_functions
+msgid "SABM Membership Info"
+msgstr "Informations sur l'adhésion du SABM"
+
+#: hp-custom-functions.php:220
+#@ hp_custom_functions
+msgid "Membership Type "
+msgstr "Type d'adhésion"
+
+#: hp-custom-functions.php:223
+#@ hp_custom_functions
+msgid "This is your Membership."
+msgstr "Voici votre adhésion."
+
+#: hp-custom-functions.php:227
+#@ hp_custom_functions
+msgid "Membership Card Number"
+msgstr "Numéro de carte de membre"
+
+#: hp-custom-functions.php:233
+#@ hp_custom_functions
+msgid "Members since "
+msgstr "membre depuis"
+
+#: hp-custom-functions.php:236
+#@ hp_custom_functions
+msgid "This is when you registered"
+msgstr "C'est lors de votre inscription"
+
+#: hp-custom-functions.php:240
+#@ hp_custom_functions
+msgid "Profile image."
+msgstr "L'image de profil."
+
+#: hp-custom-functions.php:244
+#@ hp_custom_functions
+msgid "Please upload your image for your profile."
+msgstr "S'il vous plaît télécharger votre image pour votre profil."
+
+#: hp-custom-functions.php:249
+#@ hp_custom_functions
+msgid "SABM Spouse Membership Info"
+msgstr "Conjoint Renseignements sur l'adhésion"
+
+#: hp-custom-functions.php:252
+#@ hp_custom_functions
+msgid "Spouse First Name "
+msgstr "Prénom du conjoint"
+
+#: hp-custom-functions.php:258
+#@ hp_custom_functions
+msgid "Spouse Last Name "
+msgstr "Conjoint Nom de famille"
+
+#: hp-custom-functions.php:264
+#@ hp_custom_functions
+msgid "Membership Card Number Spouse"
+msgstr "Nombre carte de membre Conjoint"
+
+#: hp-custom-functions.php:270
+#@ hp_custom_functions
+msgid "Profile image spouse."
+msgstr "Profil Image conjoint."
+
+#: hp-custom-functions.php:274
+#@ hp_custom_functions
+msgid "Please upload your image for your spouse's profile."
+msgstr "S'il vous plaît télécharger votre image pour le profil de votre conjoint."
+
+#: hp-custom-functions.php:279
+#@ hp_custom_functions
+msgid "SABM Children Membership Info"
+msgstr "SABM Enfants Information d'adhésion"
+
+#: hp-custom-functions.php:282
+#@ hp_custom_functions
+msgid "First Child First Name "
+msgstr "Premier enfant prénom"
+
+#: hp-custom-functions.php:288
+#@ hp_custom_functions
+msgid "First Child Last Name "
+msgstr "Premier enfant Nom de famille"
+
+#: hp-custom-functions.php:294
+#@ hp_custom_functions
+msgid "Membership Card Number First Child"
+msgstr "Carte de membre Nombre premier enfant"
+
+#: hp-custom-functions.php:300
+#@ hp_custom_functions
+msgid "Birthday First Child."
+msgstr "Anniversaire premier enfant."
+
+#: hp-custom-functions.php:309
+#@ hp_custom_functions
+msgid "Profile image First Child."
+msgstr "Image Profile of First Child."
+
+#: hp-custom-functions.php:313
+#@ hp_custom_functions
+msgid "Please upload your image for your first child's profile."
+msgstr "S'il vous plaît télécharger votre image pour le profil de votre premier enfant."
+
+#: hp-custom-functions.php:317
+#@ hp_custom_functions
+msgid "Second Child First Name "
+msgstr ""
+
+#: hp-custom-functions.php:323
+#@ hp_custom_functions
+msgid "Second Child Last Name "
+msgstr ""
+
+#: hp-custom-functions.php:329
+#@ hp_custom_functions
+msgid "Membership Card Number Second Child"
+msgstr ""
+
+#: hp-custom-functions.php:335
+#@ hp_custom_functions
+msgid "Birthday Second Child."
+msgstr ""
+
+#: hp-custom-functions.php:343
+#@ hp_custom_functions
+msgid "Profile image Second Child."
+msgstr ""
+
+#: hp-custom-functions.php:347
+#@ hp_custom_functions
+msgid "Please upload your image for your second child's profile."
+msgstr ""
+
+#: hp-custom-functions.php:351
+#@ hp_custom_functions
+msgid "Third Child First Name "
+msgstr ""
+
+#: hp-custom-functions.php:357
+#@ hp_custom_functions
+msgid "Third Child Last Name "
+msgstr ""
+
+#: hp-custom-functions.php:363
+#@ hp_custom_functions
+msgid "Membership Card Number Third Child"
+msgstr ""
+
+#: hp-custom-functions.php:369
+#@ hp_custom_functions
+msgid "Birthday Third Child."
+msgstr ""
+
+#: hp-custom-functions.php:378
+#@ hp_custom_functions
+msgid "Profile image Third Child."
+msgstr ""
+
+#: hp-custom-functions.php:382
+#@ hp_custom_functions
+msgid "Please upload your image for your third child's profile."
+msgstr ""
+
+#: hp-custom-functions.php:388
+#@ hp_custom_functions
+msgid "SABM Additional Children Membership Info"
+msgstr ""
+
+#: hp-custom-functions.php:392
+#@ hp_custom_functions
+msgid "First Additional Child First Name "
+msgstr ""
+
+#: hp-custom-functions.php:398
+#@ hp_custom_functions
+msgid "First Additional Child Last Name "
+msgstr ""
+
+#: hp-custom-functions.php:404
+#@ hp_custom_functions
+msgid "Membership Card Number First Additional Child"
+msgstr ""
+
+#: hp-custom-functions.php:410
+#@ hp_custom_functions
+msgid "Birthday First Additional Child."
+msgstr ""
+
+#: hp-custom-functions.php:419
+#@ hp_custom_functions
+msgid "Profile image First Additional Child."
+msgstr ""
+
+#: hp-custom-functions.php:423
+#@ hp_custom_functions
+msgid "Please upload your image for your first additional child's profile."
+msgstr ""
+
